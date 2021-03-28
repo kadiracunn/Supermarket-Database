@@ -5,8 +5,8 @@ By using this project our customer can control statistic and information about e
 ___  
 > This project is a group project of 2 people.  
 > Collaborators:  
-> Erhan Yalnız  
-> Kadir Acun ([Profile](https://github.com/kadiracunn))  
+> Kadir Acun  
+> Erhan Yalnız ([Profile](https://github.com/erhanyalniz))  
 ___  
 The details and report of the program are given below:  
 [Details](https://github.com/erhanyalniz/Supermarket-Database/blob/1acdef9d164c5b7070e7802caeb20909a615f541/Database%20Systems%20Project.pdf)  
